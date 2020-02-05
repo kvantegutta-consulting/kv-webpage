@@ -17,8 +17,8 @@ title: Kvantegutta Consulting
 email: contact@kvantagutta.com
 description: >- # this means to ignore newlines until "baseurl:"
   We are a data driven consulting agency built to provide reproduceable and explainable results from your data oceans.
-baseurl: "kv-webpage/" # the subpath of your site, e.g. /blog
-url: "kv-webpage/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/kv-webpage/" # the subpath of your site, e.g. /blog
+url: "/kv-webpage/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
